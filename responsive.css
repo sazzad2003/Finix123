@@ -172,6 +172,9 @@ img {
         right: 30%;
         bottom: 375px;
     }
+	    .finix-text h2 {
+        font-size: 19px;
+    }
 }
 @media (max-width:766px) {
     .client-section .client-cont h4 {
