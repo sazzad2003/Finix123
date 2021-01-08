@@ -1,0 +1,225 @@
+@media (max-width:1366px) {
+    .navbar-nav li a {
+        padding: 10px 11px;
+        font-size: 16px;
+    }
+    .btn-custom {
+        padding: 11px 26px;
+        font-size: 15px;
+    }
+    .display-info .display-call {
+        width: 200px;
+    }
+}
+
+.company-values img {
+	max-width: 100%;
+}
+
+@media (max-width:1200px) {
+    .main-header .container-fluid, .slider-section .container-fluid {
+        width: 100%;
+        max-width: 100%;
+    }
+    .container{
+        max-width: 100%;
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 64px;
+    }
+    .navbar-nav li a {
+        padding: 8px 8px;
+        font-size: 15px;
+    }
+    .display-info .display-search {
+        width: 37px;
+        font-size: 17px;
+        margin-right: 10px;
+    }
+    .display-info .display-call span i {
+        height: 18px;
+        margin-right: 10px;
+        font-size: 36px;
+        margin-top: 4px;
+    }
+    .slider-bottom img {
+        width: 128px;
+        max-width: 100%;
+    }
+}
+
+@media (max-width:1140px) {
+    .call-box .call-num a {
+        font-size: 25px;
+    }
+    .call-box .call-num {
+        margin-top: 14px;
+    }
+    .call-box .call-num span {
+        font-size: 36px;
+        width: 55px;
+        height: 55px;
+        line-height: 55px;
+    }
+    .finix-text h2 {
+        font-size: 33px;
+    }
+    .service-box ul li:nth-child(5){
+        display: none;
+    }
+    .service-box ul li:nth-child(6){
+        display: none;
+    }
+}
+
+@media (max-width:995px) {
+    .container {
+        padding-right: 22px;
+    }
+    .slider-cont {
+        width: 400px;
+    }
+    .slider-cont h1 {
+        font-size: 37px;
+        margin-bottom: 13px;
+    }
+    .about-section img{
+        max-width: 100%;
+    }
+    .why-choose-us img{
+        max-width: 100%;
+    }
+    .play-btn {
+        right: 30%;
+        bottom: 245px;
+    }
+    .service-box #pills-home-tab {
+        margin-bottom: 0;
+    }
+    .service-box ul li {
+        flex: 1 1 auto;
+        flex-wrap: wrap !important;
+        display: flex;
+        width: 258px;
+        justify-content: center;
+    }
+    .service-box ul li:nth-child(4){
+        display: none;
+    }
+    .service-box ul li:nth-child(5){
+        display: none;
+    }
+    .service-box ul li:nth-child(6){
+        display: none;
+    }
+    .tab-pane img{
+        max-width: 100%;
+    }
+    .client-section img{
+        max-width: 100%;
+    }
+    .client-section .client-cont h4 {
+        font-size: 24px;
+    }
+    .team-section img{
+        max-width: 100%;
+    }
+    .success-story img{
+        max-width: 100%;
+    }
+    .success-cont h3 a {
+        font-size: 20px;
+    }
+    .navbar-nav li ul {
+        left: 104px;
+        z-index: 999;
+    }
+    .tab-pane img {
+        max-width: 100%;
+        width: 100%;
+    }
+    .funding-section img {
+        max-width: 100%;
+        width: 100%;
+    }
+    .about-section img {
+        max-width: 100%;
+        width: 100%;
+    }
+
+}
+
+img {
+	max-width: 100%;
+}
+
+@media (max-width:955px) {
+    .play-btn {
+        right: 30%;
+        bottom: 291px;
+    }
+}
+
+@media (max-width:815px) {
+    .service-box ul li {
+        width: 160px;
+    }
+    .success-story img {
+        max-width: 100%;
+        width: 100%;
+    }
+    .play-btn {
+        right: 30%;
+        bottom: 375px;
+    }
+}
+@media (max-width:766px) {
+    .client-section .client-cont h4 {
+        font-size: 18px;
+    }
+    .img-item li:nth-child(5){
+        display: none;
+    }
+    .team-section img {
+        max-width: 100%;
+        width: 100%;
+    }
+    .play-btn {
+        right: 39%;
+        bottom: 58px;
+    }
+}
+@media (max-width:540px) {
+    .service-box ul li a strong {
+        font-size: 14px;
+    }
+    .service-box ul li a span i {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        font-size: 28px;
+    }
+    .service-box ul li:nth-child(3){
+        display: none;
+    }
+    .inner-img {
+        right: 25px;
+        bottom: -26px;
+    }
+}
+@media (max-width:500px) {
+    .slider-cont {
+        width: 306px;
+    }
+    .slider-social {
+        bottom: -48px;
+    }
+    .service-box ul li a.active::after {
+        content: '';
+        top: 110%;
+    }
+    .play-btn {
+        right: 30%;
+        bottom: 24px;
+    }
+}
